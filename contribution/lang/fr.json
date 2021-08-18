@@ -9,7 +9,7 @@
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
- 	 	 	"trans": "Discuter",
+ 	 	 	"trans": "Chat",
  	 	 	"eng": "Chat"
  	 	},
  	 	"profile": {
@@ -28,11 +28,11 @@
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Vous pouvez acheter des objets d'améliorations globales ici",
+ 	 	 	 	"trans": "Vous pouvez acheter des objets d'améliorations ici",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Vous avez besoin au moins de niveau 5 pour accéder à l'échange de l'unité",
+ 	 	 	 	"trans": "Le niveau 5 est requis pour accéder au bureau d'échange",
  	 	 	 	"eng": "You need to be at least level 5 to access unit exchange"
  	 	 	}
  	 	},
@@ -46,7 +46,7 @@
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Vous avez besoin au moins niveau 5 pour accéder au marchand cosmétique",
+ 	 	 	 	"trans": "Le niveau 5 est requis pour accéder au marchand de cosmétique",
  	 	 	 	"eng": "You need to be at least level 5 to access cosmetic merchant"
  	 	 	}
  	 	},
@@ -80,7 +80,7 @@
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Vous avez besoin au moins de niveau 5 pour accéder au terminal",
+ 	 	 	 	"trans": "Le niveau 5 est requis pour accéder au terminal",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	}
  	 	},
@@ -96,7 +96,7 @@
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Vous avez besoin au moins de niveau 5 pour accéder à la banque",
+ 	 	 	 	"trans": "Le niveau 5 est requis pour accéder à la banque",
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	}
  	 	},
@@ -120,7 +120,7 @@
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Vous avez besoin au moins de niveau 10 pour accéder au marchand",
+ 	 	 	 	"trans": "Le niveau 10 est requis pour accéder au marchand",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	}
  	 	},
@@ -154,7 +154,7 @@
  	 	},
  	 	"print": {
  	 	 	"name": {
- 	 	 	 	"trans": "rang d'impression",
+ 	 	 	 	"trans": "rang de fabrication",
  	 	 	 	"eng": "printing rank"
  	 	 	}
  	 	},
@@ -240,7 +240,7 @@
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Zone de Taff]\r\n        De nombreuses boutiques et Business, un endroit parfait pour essayer vos talents.",
+ 	 	 	 	"trans": "[Zone de Taff]\r\n        De nombreuses boutiques et opportunités, un endroit parfait pour mettre à profit vos talents.",
  	 	 	 	"eng": "[Job Hub]\r\n        Here are many shops and businesses reside. The perfect location to hone and refine your skills."
  	 	 	},
  	 	 	"toMainHub": {
@@ -380,7 +380,7 @@
  	 	 	 	"eng": "[Gang]\r\n        The headquarters for you and your gang members to plan and execute your next operation"
  	 	 	},
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "Vous devez rejoindre un gain pour entrer dans cette zone",
+ 	 	 	 	"trans": "Vous devez rejoindre un gang pour entrer dans cette zone",
  	 	 	 	"eng": "You need to join a gang to enter this area"
  	 	 	}
  	 	}
@@ -478,7 +478,7 @@
  	 	},
  	 	"healing2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot de Réparation Dégradé",
+ 	 	 	 	"trans": "Nano Bot de Réparation endommagé",
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
@@ -488,7 +488,7 @@
  	 	},
  	 	"healing3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot Médical Dégradé",
+ 	 	 	 	"trans": "Nano Bot Médical endommagé",
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -558,7 +558,7 @@
  	 	},
  	 	"healingArea2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Drone de Réparation Dégradé",
+ 	 	 	 	"trans": "Drone de Réparation endommagé",
  	 	 	 	"eng": "Degraded Repair drone"
  	 	 	},
  	 	 	"description": {
@@ -568,7 +568,7 @@
  	 	},
  	 	"healingArea3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano drone Médical Dégradé",
+ 	 	 	 	"trans": "Nano drone Médical endommagé",
  	 	 	 	"eng": "Degraded nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -896,7 +896,7 @@
  	 	},
  	 	"backpack1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pochette ancienne",
+ 	 	 	 	"trans": "Vieille pochette",
  	 	 	 	"eng": "Old Pouch"
  	 	 	},
  	 	 	"description": {
